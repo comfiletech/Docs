@@ -7,21 +7,21 @@ nav:
   - '홈': index.md
   - '안전경고': warnning.md
   - '터치패널PC':
-      - '윈도우 7/10/11': cpcv/index.md
-      - '윈도우 CE': cuwin/index.md
+        - '윈도우 7/10/11': cpcv/index.md
+        - '윈도우 CE': cuwin/index.md
   - '컴파일파이': comfilepi/index.md
   - 'HMI': hmi/index.md
   - '임베디드 컨트롤러':
-      - '큐블록': cubloc/index.md
-      - '모아콘': moacon/index.md
-      - '모듈형 FADUINO': modularfaduino/index.md
-      - 'FADUINO': faduino/index.md
+        - '큐블록': cubloc/index.md
+        - '모아콘': moacon/index.md
+        - '모듈형 FADUINO': modularfaduino/index.md
+        - 'FADUINO': faduino/index.md
   - '디스플레이':
-      - 'M Display': mdisplay/index.md
-      - 'CLCD': clcd/index.md
-      - 'CSG': csg/index.md
-      - 'UIF-5K-2': uif5k2/index.md
-      - 'UIF420B': uif420b/index.md
+        - 'M Display': mdisplay/index.md
+        - 'CLCD': clcd/index.md
+        - 'CSG': csg/index.md
+        - 'UIF-5K-2': uif5k2/index.md
+        - 'UIF420B': uif420b/index.md
 
 theme:
   name: material
