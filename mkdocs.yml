@@ -6,12 +6,21 @@ theme:
 nav:
   - 홈: index.md
   - 안전경고및 주의사항: warnning.md
-  - 터치패널 PC:
-      - 컴파일파이: comfilepi.md
-      - 윈도우7/10/11: cpcv.md
-  - 시리얼 디스플레이:
-      - M DISPLAY: mdisplay.md
-      - CLCD: clcd.md
+  - 컴파일파이: comfilepi/index.md
+  - 윈도우7/10/11 터치패널 PC: cpcv/index.md
+  - 윈도우CE 터치패널 PC: cuwin/index.md
+  - HMI: hmi/index.md
+  - 임베디드 컨트롤러:
+    - 큐블록: cubloc/index.md    
+    - 모아콘: moacon/index.md
+    - 모듈형 FADUINO: modularfaduino/index.md
+    - FADUINO: faduino/index.md
+  - 디스플레이:
+    - M Display: mdisplay/index.md
+    - CLCD: clcd/index.md
+    - CSG: csg/index.md
+    - UIF-5K-2: uif5k2/index.md
+    - UIF420B: uif420b/index.md
 
 theme:
   name: material
