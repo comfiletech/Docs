@@ -34,7 +34,7 @@ theme:
       primary: black
       accent: lime
   features:
-    - navigation.tabs # 상단 가로 메뉴바 생성
+    - navigation.sticky # 상단 메뉴바 고정
     - navigation.sections  # 왼쪽 메뉴를 섹션별로 구분해서 표시
     - navigation.expand    # 메뉴를 처음부터 다 펼쳐서 보여줌
     - toc.integrate        # (선택) 오른쪽 목차를 왼쪽 메뉴에 통합    
