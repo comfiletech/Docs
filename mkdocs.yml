@@ -1,0 +1,28 @@
+site_name: COMFILE Documentation Library
+theme:
+  name: material
+  language: ko  # 한국어 설정
+
+nav:
+  - 홈: index.md
+  - 안전경고및 주의사항: warnning.md
+  - 터치패널 PC:
+      - 컴파일파이: comfilepi.md
+      - 윈도우7/10/11: cpcv.md
+  - 시리얼 디스플레이:
+      - M DISPLAY: mdisplay.md
+      - CLCD: clcd.md
+
+theme:
+  name: material
+  palette:
+    # 낮 모드 / 밤 모드 설정
+    - scheme: slate
+      primary: black # 상단 바 색상
+      accent: lime  # 강조 색상
+    - scheme: slate
+      primary: black
+      accent: lime
+  features:
+    - navigation.tabs # 상단 가로 메뉴바 생성
+    - search.suggest  # 검색어 자동 완성
