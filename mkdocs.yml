@@ -5,10 +5,10 @@ theme:
 
 nav:
   - 홈: index.md
-  - 안전경고및 주의사항: warnning.md
+  - 안전경고: warnning.md
   - 컴파일파이: comfilepi/index.md
-  - 윈도우7/10/11 터치패널 PC: cpcv/index.md
-  - 윈도우CE 터치패널 PC: cuwin/index.md
+  - CPCV터치패널 PC: cpcv/index.md
+  - CUWIN: cuwin/index.md
   - HMI: hmi/index.md
   - 임베디드 컨트롤러:
     - 큐블록: cubloc/index.md    
